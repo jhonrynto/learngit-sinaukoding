@@ -1,3 +1,5 @@
 # learngit-sinaukoding
 # learngit-sinaukoding
-Jhon Riyanto
+Jhon riyanto 
+Status = Online
+Nama = Jhon
