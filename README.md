@@ -1,7 +1,7 @@
 x# learngit-sinaukoding
 # learngit-sinaukoding
 Jhon riyanto 
-# Status = Online
+# Status  Online
 Nama = Jhon
 
 ini fitur baru
