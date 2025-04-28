@@ -7,3 +7,4 @@ Nama = Jhon
 ini fitur baru
 Rumah = Jakarta
 fitur data
+rumah 123
